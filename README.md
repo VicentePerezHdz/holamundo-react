@@ -1,5 +1,7 @@
 # Hola Mundo · React 18 + TypeScript
 
+[![CI](https://github.com/VicentePerezHdz/holamundo-react/actions/workflows/ci.yml/badge.svg)](https://github.com/VicentePerezHdz/holamundo-react/actions/workflows/ci.yml) [![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
+
 Frontend en React con Vite. Tiene tres funciones: saludo con input de texto, calculadora y combobox con mensaje.
 
 ## Qué demuestra
@@ -22,3 +24,7 @@ npm run lint
 ```
 
 La explicación completa está en [`docs/Documento_Transicion.md`](docs/Documento_Transicion.md).
+
+## Licencia
+
+[MIT](LICENSE)
