@@ -4,6 +4,8 @@
 
 Frontend en React con Vite. Tiene tres funciones: saludo con input de texto, calculadora y combobox con mensaje.
 
+![Captura de la aplicación](docs/img/captura.png)
+
 ## Qué demuestra
 - Hooks, incluido uno propio (`useLenguajes`).
 - Rutas con React Router.
